@@ -36,3 +36,4 @@ fn main() {
     }
     println!("Score: {score}");
 }
+// minor change
